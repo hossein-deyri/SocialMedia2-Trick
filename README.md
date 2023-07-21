@@ -1,6 +1,6 @@
 # SocialMedia2-Trick
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view (4)](https://github.com/hossein-deyri/SocialMedia2-Trick/assets/136192436/11a35830-10f3-4cce-a02e-e2c1520cd232)
 
 - [Demo Project](https://hossein-deyri.github.io/First-Project/)
 
