@@ -2,7 +2,7 @@
 
 ![view (4)](https://github.com/hossein-deyri/SocialMedia2-Trick/assets/136192436/11a35830-10f3-4cce-a02e-e2c1520cd232)
 
-- [Demo Project](https://hossein-deyri.github.io/First-Project/)
+- [Demo Project](https://hossein-deyri.github.io/SocialMedia2-Trick/)
 
 - Developed by Hossein Deyri
 
