@@ -1,4 +1,5 @@
 # SocialMedia2-Trick
+Not Responsive
 
 ![view (4)](https://github.com/hossein-deyri/SocialMedia2-Trick/assets/136192436/11a35830-10f3-4cce-a02e-e2c1520cd232)
 
